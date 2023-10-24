@@ -1,16 +1,17 @@
 ### Hi there 👋
 
 
-**AlaattinAkarca/AlaattinAkarca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Merhaba, Ben Alaattin Akarca 👋
 
-Here are some ideas to get you started:
+Alaattin Akarca, bir Frontend Geliştiriciyim, bu da benim GitHub profilime hoş geldiniz! İşte benim hakkımda birkaç şey:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Web teknolojilerine ilgim var. HTML, CSS, JavaScript ve React konularında deneyim sahibiyim.
+- 🚀 Sürekli öğrenmeyi ve kendimi geliştirmeyi seviyorum. Yeni teknolojilere ve trendlere açığım.
+- 👥 Takım çalışmasına inanıyorum. Birlikte çalışarak projeleri daha verimli bir şekilde geliştirebiliriz.
+- 📚 Kendimi güncel tutmak için düzenli olarak kaynakları takip ederim ve yeni şeyler öğrenmeye hevesliyim.
+## İletişim
+
+Benimle aşağıdaki platformlarda iletişime geçebilirsiniz:
+
+- 📧 E-posta: [akarcaalaattin190712@gmail.com]
+- 💼 LinkedIn: [www.linkedin.com/in/alaattin-akarca-75ba06188]
