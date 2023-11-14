@@ -1,5 +1,10 @@
 ### Hi there 👋
+Alaattin Akarca, I am a Frontend Developer, welcome to my GitHub profile! Here are a few things about me:
 
+🌐 I am interested in web technologies. I have experience in HTML, CSS, JavaScript and React.
+🚀 I love constantly learning and improving myself. I am open to new technologies and trends.
+👥 I believe in teamwork. By working together, we can develop projects more efficiently.
+📚 I follow resources regularly to keep myself updated and I am eager to learn new things.
 
 # Merhaba, Ben Alaattin Akarca 👋
 
