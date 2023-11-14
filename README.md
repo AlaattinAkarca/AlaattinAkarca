@@ -18,6 +18,6 @@ Alaattin Akarca, bir Frontend Geliştiriciyim, bu da benim GitHub profilime hoş
 
 Benimle aşağıdaki platformlarda iletişime geçebilirsiniz:
 <img src="(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)}" />
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)]
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/alaattin-akarca-75ba06188)
 - 📧 E-posta: [akarcaalaattin190712@gmail.com]
 - 💼 LinkedIn: [www.linkedin.com/in/alaattin-akarca-75ba06188]
